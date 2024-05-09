@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahan Kumarage</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
-<img align="center"  alt="coding" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="center" display="flex" justifyContent="center"  alt="coding" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <p align="left"> <a href="https://twitter.com/sahankumrage" target="blank"><img src="https://img.shields.io/twitter/follow/sahankumrage?logo=twitter&style=for-the-badge" alt="sahankumrage" /></a> </p>
 
