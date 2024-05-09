@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <a href="https://twitter.com/sahankumrage" target="blank"><img src="https://img.shields.io/twitter/follow/sahankumrage?logo=twitter&style=for-the-badge" alt="sahankumrage" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Platform**
+- 🔭 I’m currently working on **Medical Management Platform**
 
 - 👯 I’m looking to collaborate on **React/Angular**
 
